@@ -1,6 +1,8 @@
 # Core app framework
-streamlit==1.38.0
-streamlit-option-menu==0.3.6
+Pillow
+pycaret
+streamlit==1.11.1
+streamlit_option_menu==0.3.2
 
 # Core ML libraries
 scikit-learn==1.4.2
