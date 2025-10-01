@@ -1,11 +1,11 @@
 # Core app framework
 Pillow
 pycaret
-streamlit==1.11.1
-streamlit_option_menu==0.3.2
+streamlit==1.49.1
+streamlit_option_menu==0.4.0
 
 # Core ML libraries
-scikit-learn==1.4.2
+scikit-learn== 1.7.1
 xgboost==2.0.3
 joblib==1.3.2
 lifetimes==0.11.4
