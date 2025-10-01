@@ -1,28 +1,19 @@
 # Core app framework
 streamlit==1.38.0
+streamlit-option-menu==0.3.6
 
 # Core ML libraries
 scikit-learn==1.4.2
 xgboost==2.0.3
 joblib==1.3.2
+lifetimes==0.11.4
 
 # Data handling
 pandas==2.2.2
 numpy==1.26.4
+scipy==1.13.0
 
-# Visualization (optional but common in Streamlit apps)
+# Visualization
 matplotlib==3.9.0
 seaborn==0.13.2
 plotly==5.22.0
-
-# Utilities (optional but often useful)
-scipy==1.13.0
-
-streamlit
-streamlit-option-menu
-pandas
-numpy
-scikit-learn
-xgboost
-plotly
-lifetimes
