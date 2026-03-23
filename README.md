@@ -1,5 +1,7 @@
 # Customer360
 
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Use%20Case-Customer%20Analytics-0A7E07)
+
 ## Overview
 Customer360 is a Streamlit machine learning app for retail customer analytics. It combines three decision workflows in one interface: churn prediction, customer lifetime value (CLV) prediction, and customer segmentation.
 
